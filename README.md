@@ -1,12 +1,16 @@
+## Please fork this repo and work on the test.
+
 ### Front-end
 
 #### TODO
 
-* Use component/container concept
-* Remove the logic from reducer and move it to a selector
-* Refactoring code to remove repetition.
-* Extract function for reusability.
-* Readability of your code.
+* It's your job to refactor the code!
+* Refactoring tasks
+  * Use component/container concept
+  * Remove the logic from reducer and move it to a selector
+  * Refactoring code to remove repetition.
+  * Extract function for reusability.
+  * Readability of your code.
 
 ### Bonus
 
