@@ -1,4 +1,4 @@
-### Back-end
+### backend
 
 #### TODO
 
@@ -11,4 +11,5 @@
 ### Bonus
 
 * Unit tests
+* Session
 * Caching REST API.

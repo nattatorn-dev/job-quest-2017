@@ -1,6 +1,26 @@
 ## Please fork this repo and work on the test.
 
-### Front-end
+### frontend-junior
+
+#### TODO
+
+* Write a To-do web client (single-page application)
+* Any modern web framework/lib is okay (ReactJS, Angular, VueJS, ...)
+
+---
+
+### backend-junior
+
+#### TODO
+
+* Write a To-do API in language of your choice having following endpoints
+  * GET / Get all todos
+  * POST / Create new todo
+  * DELETE /:id Delete specific todo item
+
+---
+
+### frontend
 
 #### TODO
 
@@ -19,7 +39,7 @@
 
 ---
 
-### Back-end
+### backend
 
 #### TODO
 
@@ -32,4 +52,7 @@
 ### Bonus
 
 * Unit tests
+* Session
 * Caching REST API.
+
+---
