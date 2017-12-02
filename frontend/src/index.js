@@ -33,7 +33,7 @@ injectTapEventPlugin();
 ReactDOM.render(
   <Provider store={store}>
     <MuiThemeProvider theme={theme}>
-      <Router basename="/">
+      <Router basename="/job-quest-2017">
         <Switch>
           <Route exact path={"/"} component={Home} />
           <Route exact path={"/checkout"} component={Checkout} />
