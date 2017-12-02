@@ -2,6 +2,7 @@
   "name": "e-store",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://nattatorn-dev.github.io/job-quest-2017",
   "dependencies": {
     "axios": "^0.17.1",
     "material-ui": "next",
