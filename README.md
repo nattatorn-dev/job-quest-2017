@@ -4,7 +4,6 @@
 
 * Use component/container concept
 * Remove the logic from reducer and move it to a selector
-* Do more in action-creators and less in reducers
 * Refactoring code to remove repetition.
 * Extract function for reusability.
 * Readability of your code.
@@ -28,4 +27,5 @@
 
 ### Bonus
 
-* Try writing a GraphQL API on top of REST API
+* Unit tests
+* Caching REST API.
