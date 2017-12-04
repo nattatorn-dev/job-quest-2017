@@ -1,6 +1,3 @@
-/**
- * Created by satuk on 20.07.17.
- */
 import React from "react";
 import { createStyleSheet, withStyles } from "material-ui/styles";
 import PropTypes from "prop-types";
