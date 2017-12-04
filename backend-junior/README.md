@@ -6,3 +6,5 @@
   * GET / Get all todos
   * POST / Create new todo
   * DELETE /:id Delete specific todo item
+* Async/Await
+* ES6, 7 syntax
