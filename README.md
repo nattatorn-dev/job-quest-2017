@@ -1,6 +1,6 @@
 ## Please fork this repo and work on the test.
 
-### frontend-junior
+### 1 frontend-junior
 
 #### TODO
 
@@ -11,7 +11,7 @@
 
 ---
 
-### backend-junior
+### 2 backend-junior
 
 #### TODO
 
@@ -24,7 +24,7 @@
 
 ---
 
-### frontend
+### 3 frontend
 https://nattatorn-dev.github.io/job-quest-2017/
 #### TODO
 
@@ -45,7 +45,7 @@ https://nattatorn-dev.github.io/job-quest-2017/
 
 ---
 
-### backend
+### 4 backend
 
 #### TODO
 
