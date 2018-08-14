@@ -1,5 +1,6 @@
 ## Please fork this repo and work on the test.
 
+## frontend
 ### 1 frontend-junior
 
 #### TODO
@@ -11,20 +12,7 @@
 
 ---
 
-### 2 backend-junior
-
-#### TODO
-
-* Write a To-do API in language of your choice having following endpoints
-  * GET / Get all todos
-  * POST / Create new todo
-  * DELETE /:id Delete specific todo item
-* Async/Await
-* ES6, 7 syntax
-
----
-
-### 3 frontend
+### 2 frontend
 https://nattatorn-dev.github.io/job-quest-2017/
 #### TODO
 
@@ -42,6 +30,20 @@ https://nattatorn-dev.github.io/job-quest-2017/
 
 * Use recompose, reselect, redux-persist, redux-saga
 * Try adding some animation to the UI
+
+---
+
+## backend
+### 3 backend-junior
+
+#### TODO
+
+* Write a To-do API in language of your choice having following endpoints
+  * GET / Get all todos
+  * POST / Create new todo
+  * DELETE /:id Delete specific todo item
+* Async/Await
+* ES6, 7 syntax
 
 ---
 
